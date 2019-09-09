@@ -14,7 +14,6 @@ Welcome to BlocksInCloud Academy's documentation!
  
 .. toctree::
    :maxdepth: 1
-   :hidden:
    :caption: Guía Funcional:
    
    es/guia_funcional/acadgf20190909documentacion
